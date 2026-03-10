@@ -1,0 +1,8 @@
+[project]
+name = "trade-system-codex"
+version = "0.1.0"
+description = "资金流向和筹码分布驱动的监控交易系统V1"
+requires-python = ">=3.11"
+
+[tool.ruff]
+line-length = 100
